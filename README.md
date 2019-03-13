@@ -1,1 +1,1 @@
-/ proxy-site
+//proxy-site
